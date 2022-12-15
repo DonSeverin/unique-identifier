@@ -1,0 +1,13 @@
+Sept 27th 2022 
+
+
+We embark on what is a excerpt from our main journal where we tryto build the system of systems for the caribbean (SXM )in our deliverance we decided to take on the challenge of generating psuedo random numbers using  various algorithms. Mind you we will not be creating true random numbers due to difficulting, need and versioning nessesity. Mind my spelliong i'l have this proofed my bettters in english one day.
+
+so to genrrate this the algorthm fgollws these steps:
+
+1. Accept some initial input number, that is a seed or key.
+2. Apply that seed in a sequence of mathematical operations to generate the result. That result is the random number.
+3. Use that resulting random number as the seed for the next iteration.
+4. Repeat the process to emulate randomness
+
+let's read some more and try to replicate in python what was done so many years go.
